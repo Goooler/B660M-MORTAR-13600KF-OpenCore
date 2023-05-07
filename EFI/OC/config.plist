@@ -788,7 +788,7 @@
                     <key>revcpu</key>
                     <integer>1</integer>
                     <key>revcpuname</key>
-                    <string>13th Gen Intel(R) Core(TM) i5-13400</string>
+                    <string>13th Gen Intel(R) Core(TM) i5-13600kf</string>
                     <key>rtc-blacklist</key>
                     <data></data>
                 </dict>
