@@ -4,7 +4,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.3](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -13,7 +13,7 @@
 ### Hardware
 
 - Motherboard: MSI-MAG-B660M-MORTAR-WIFI-DDR4
-- Bios Version: 7D42v1B（2023-03-30)
+- Bios Version: 7D42v1C（2023-06-04)
 - CPU: Intel i5-13600kf
 - RAM: KingBank 2x16GB DDR4 3600MHz
 - SSD: ZHITAI Ti7100Plus 1TB Windows
